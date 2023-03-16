@@ -16,4 +16,4 @@ docker run \
 	-v ~/contrib/deepstream-services-library/:/opt/dsl/deepstream-services-library/ \
 	-v ~/contrib/DeepStream-Yolo:/opt/dsl/DeepStream-Yolo/ \
 	-v ~/contrib/yolov5:/opt/dsl/yolov5 \
-	dsl:dgpu
+	dsl:0
